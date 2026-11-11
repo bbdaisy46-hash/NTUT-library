@@ -1,0 +1,6 @@
+{
+  "name": "北科圖書館｜座位預約系統",
+  "description": "國立臺北科技大學圖書館線上閱覽座位預約系統，提供樓層區域查詢、時段預約、平面圖選位與我的預約管理。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
